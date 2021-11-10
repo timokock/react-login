@@ -1,0 +1,20 @@
+body {
+    color: #333333;
+}
+
+.primary {
+    background: #2d2d2e !important;
+    color: #ffffff;
+}
+.secondary {
+    background: #2e2e2e !important;
+    color: #ffffff;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+ }
